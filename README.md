@@ -32,7 +32,7 @@ python main.py --snr 10 --numepoch 100 --precoding 0 --mapping 0 --lamb 0 --thre
 > 
 > author={Shao, Yulin and Gunduz, Deniz},
 > 
-> journal={arXiv preprint:2208.08342},
+> journal={IEEE Wireless Communications Letters},
 > 
 > year={2022}
 > 
